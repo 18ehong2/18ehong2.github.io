@@ -1,6 +1,7 @@
 body{
-    text-align:center;
-    color:#FF00FF;
+    text-align:left;
+    background-color:#FCFBE3;
+    color: #FF00FF;
 }
 table{
     margin-left: auto;
@@ -11,10 +12,10 @@ table{
 tr{
     border: 1px solid #FF00FF;
     text-align: center;
-    background-color: #FF99FF;
+    background-color: #ffb3ec;
 }
 th{
     text-align: center;
     color: #FF00FF;
-    background-color: #FF99FF;
+    background-color: #ffb3ec;
 }

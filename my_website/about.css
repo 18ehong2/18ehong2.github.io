@@ -1,6 +1,7 @@
 body{
     text-align:left;
     background-color:#FCFBE3;
+    background-image: url("images/lennyeyebrow.gif");
     color: #FF00FF;
 }
 table{
@@ -18,4 +19,13 @@ th{
     text-align: center;
     color: #FF00FF;
     background-color: #ffb3ec;
+}
+p{
+    background-color:white;
+}
+ul{
+    background-color:white;
+}
+ol{
+    background-color:white;
 }

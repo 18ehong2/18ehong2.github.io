@@ -22,10 +22,17 @@ th{
 }
 p{
     background-color:white;
+    margin-right: 5cm;
+    margin-left: 5cm;
 }
 ul{
     background-color:white;
+    margin-right: 20cm;
 }
 ol{
     background-color:white;
+    margin-right: 20cm;
+}
+img{
+    margin-left: 5cm;
 }
